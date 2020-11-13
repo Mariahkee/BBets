@@ -135,5 +135,5 @@ hist(results)
 # Discussion and Conclusion
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
-We have determined that in order for this to be a fair bet we need 29 students in the class and dr j has to bet $450 in order for it to be a fair bet. The answers could be infinate depending on the class size, the bigger the class size the more likely he is to win. 
+We have determined that in order for this to be a fair bet we need 29 students in the class and dr j has to bet $450 in order for it to be a fair bet. The answers couldbe infinate depending on the class size, the bigger the class size the more likely he is to win.     
 
